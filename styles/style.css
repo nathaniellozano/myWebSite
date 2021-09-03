@@ -1,10 +1,13 @@
 
 div.profile-header a.profile-image img{
+    display:block;
     margin-left: auto;
     margin-right: auto;
+    width: auto;
 }
 div.profile-header h1.profile-name{
     color: chartreuse;
+    text-align: center;
 }
 div.profile-header{
     margin: auto;
