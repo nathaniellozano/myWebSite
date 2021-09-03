@@ -19,6 +19,8 @@ div.profile-header h1.profile-name{
 div.profile-header{
     margin: auto;
     background-color: black;
+    padding: 0;
+    margin: 0;
 }
 ul#menu li {
     display:inline;
