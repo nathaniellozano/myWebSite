@@ -1,8 +1,11 @@
 h1 {
-    font-size: 3em;
+    font-size: 5em;
 }
 
 h1 img {
-    height: 1em;
+    height: 5em;
     width: auto;
 }
+ul#menu li {
+    display:inline;
+  }
