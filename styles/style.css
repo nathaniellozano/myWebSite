@@ -1,5 +1,7 @@
 
-
+div#profile-header {
+    display:inline;
+}
 ul#menu li {
     display:inline;
   }
