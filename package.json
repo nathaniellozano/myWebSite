@@ -1,0 +1,22 @@
+{
+  "name": "mywebsite",
+  "version": "1.0.0",
+  "description": "my website build",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nathaniellozano/myWebSite.git"
+  },
+  "keywords": [
+    "website"
+  ],
+  "author": "nathaniel lozano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nathaniellozano/myWebSite/issues"
+  },
+  "homepage": "https://github.com/nathaniellozano/myWebSite#readme"
+}
