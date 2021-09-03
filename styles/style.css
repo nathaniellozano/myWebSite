@@ -10,7 +10,7 @@ div.profile-header a.profile-image img{
     
 }
 div.profile-header h1.profile-name{
-    color: #7fff00;
+    color:white;
     text-align: center;
     display: inline;
     font-size: 5em;
@@ -18,7 +18,7 @@ div.profile-header h1.profile-name{
 }
 div.profile-header{
     margin: auto;
-    background-color: black;
+    background-color:darkgrey;
     padding: 0;
     margin: 0;
 }
