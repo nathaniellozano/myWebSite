@@ -4,15 +4,21 @@ div.profile-header a.profile-image img{
     margin-left: auto;
     margin-right: auto;
     width: auto;
-    border-radius: 25px;
+    border-radius: 50%;
+    display: inline;
+    height: 3em;
+    
 }
 div.profile-header h1.profile-name{
     color: #7fff00;
     text-align: center;
+    display: inline;
+    font-size: 5em;
     
 }
 div.profile-header{
     margin: auto;
+    color:black;
 }
 ul#menu li {
     display:inline;
