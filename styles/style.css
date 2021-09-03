@@ -1,6 +1,8 @@
 
 div#profile-header {
     display:inline;
+    margin-right: auto;
+    margin-left: auto;
 }
 ul#menu li {
     display:inline;
