@@ -1,10 +1,10 @@
 
-div#profile-header a#profile-image img{
+div.profile-header a.profile-image img{
     margin-left: auto;
     margin-right: auto;
 }
-div#profile-header h1#profile-name{
-    font-size: 5em;
+div.profile-header h1.profile-name{
+    color: chartreuse;
 }
 ul#menu li {
     display:inline;
