@@ -3,9 +3,8 @@ div#profile-header a#profile-image img{
     margin-left: auto;
     margin-right: auto;
 }
-div#profile-header h1#porfile-name{
-    text-align: center;
-    vertical-align: middle;
+div#profile-header h1#profile-name{
+    font-size: 5em;
 }
 ul#menu li {
     display:inline;
