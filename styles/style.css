@@ -6,6 +6,9 @@ div.profile-header a.profile-image img{
 div.profile-header h1.profile-name{
     color: chartreuse;
 }
+div.profile-header{
+    display: inline;
+}
 ul#menu li {
     display:inline;
   }
