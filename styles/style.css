@@ -4,6 +4,7 @@ div.profile-header a.profile-image img{
     margin-left: auto;
     margin-right: auto;
     width: auto;
+    border-radius: 25px;
 }
 div.profile-header h1.profile-name{
     color: #7fff00;
