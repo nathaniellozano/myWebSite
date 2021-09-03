@@ -6,7 +6,7 @@ div.profile-header a.profile-image img{
     width: auto;
     border-radius: 50%;
     display: inline;
-    height: 5em;
+    height: 7em;
     
 }
 div.profile-header h1.profile-name{
@@ -18,7 +18,7 @@ div.profile-header h1.profile-name{
 }
 div.profile-header{
     margin: auto;
-    color:black;
+    background-color: black;
 }
 ul#menu li {
     display:inline;
