@@ -1,1 +1,8 @@
-img {height: 1em;}
+h1 {
+    font-size: 3em;
+}
+
+h1 img {
+    height: 1em;
+    width: auto;
+}
