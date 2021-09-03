@@ -25,3 +25,7 @@ div.profile-header{
 ul#menu li {
     display:inline;
   }
+body {
+    padding:0;
+    margin:0;
+}
