@@ -36,6 +36,7 @@ div.profile-header h1.profile-menu ul#menu li {
     font-size: larger;
   }
 body {
+    background-color: cadetblue;
     padding:0;
     margin:0;
 }
