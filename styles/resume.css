@@ -1,3 +1,6 @@
+div.profile-header{
+    display: inline;
+}
 div.profile-header a.profile-image{
     float: left;
 }
