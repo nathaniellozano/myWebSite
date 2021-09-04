@@ -30,7 +30,7 @@ div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
-div.resume a.resume-image {
+div.resume a.resume-image img{
     display: block;
     margin-left: auto;
     margin-right: auto;
