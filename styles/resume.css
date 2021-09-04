@@ -19,6 +19,7 @@ div.profile-header{
     margin: 0;
 }
 div.profile-header h2.profile-menu{
+    display: flex;
     justify-content: center;
 }
 
