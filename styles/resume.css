@@ -1,18 +1,16 @@
 
-div.profile-header a.profile-image{
+div.profile-header span a.profile-image{
     float: left;
-    display: inline;
 }
-div.profile-header a.profile-image img{
+div.profile-header span a.profile-image img{
     border-radius: 50%;
     height: 5em;
     
 }
-div.profile-header h1.profile-name{
+div.profile-header span h1.profile-name{
     color:white;
     text-align: right;
     font-size: 3em;
-    display: inline;
     
 }
 div.profile-header{
@@ -21,12 +19,12 @@ div.profile-header{
     padding: 0;
     margin: 0;
 }
-div.profile-header h2.profile-menu{
-    display: flex,inline;
+div.profile-header span h2.profile-menu{
+    display: flex;
     justify-content: center;
 }
 
-div.profile-header h2.profile-menu ul#menu li {
+div.profile-header span h2.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
   }
