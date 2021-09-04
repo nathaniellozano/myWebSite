@@ -31,7 +31,7 @@ div.profile-header span.profile-name{
 div.profile-header ul#bar li{
     display:inline;
 }
-div.profile-header ul#bar li.menus ul#menu li {
+div.profile-header ul#bar li ul#menu li {
     display:inline;
     padding-right: 20px;
 }
