@@ -11,6 +11,7 @@ span.profile-header h2.profile-name{
     color:white;
     text-align: right;
     font-size: 3em;
+    display: inline;
     
 }
 span.profile-header{
