@@ -28,11 +28,10 @@ div.profile-header span.profile-name{
     font-size: 3em;    
 }
 */
-div.profile-menu div.menus{
-    display: flex;
-  justify-content: center;
+div.profile-header ul#bar li{
+    display:inline;
 }
-div.profile-header ul#menu li {
+div.profile-header ul#bar li.menus ul#menu li {
     display:inline;
     padding-right: 20px;
 }
