@@ -23,7 +23,8 @@ div.profile-header{
     margin: 0;
 }
 div.profile-header h2.profile-menu{
-    padding-top: 0;
+    display: flex;
+  justify-content: center;
 }
 
 div.profile-header h2.profile-menu ul#menu li {
