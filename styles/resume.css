@@ -1,6 +1,6 @@
 
 div.profile-header{
-    display: inline-block;
+    float:left;
     margin: auto;
     background-color:darkgrey;
     padding: 0;
