@@ -2,10 +2,6 @@ div.profile-header a.profile-image{
     float: left;
 }
 div.profile-header a.profile-image img{
-    display:block;
-    margin-left: auto;
-    margin-right: auto;
-    width: auto;
     border-radius: 50%;
     display: inline;
     height: 7em;
