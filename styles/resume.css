@@ -20,7 +20,7 @@ span.profile-header{
     margin: 0;
 }
 span.profile-header h2.profile-menu{
-    display: flex,inline;
+    display: flex;
     justify-content: center;
 }
 
