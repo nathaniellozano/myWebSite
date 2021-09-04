@@ -1,6 +1,7 @@
 
 div.profile-header span a.profile-image{
     float: left;
+    display: inline;
 }
 div.profile-header span a.profile-image img{
     border-radius: 50%;
@@ -11,6 +12,7 @@ div.profile-header span h1.profile-name{
     color:white;
     text-align: right;
     font-size: 3em;
+    display: inline;
     
 }
 div.profile-header{
@@ -20,7 +22,7 @@ div.profile-header{
     margin: 0;
 }
 div.profile-header span h2.profile-menu{
-    display: flex;
+    display: flex,inline;
     justify-content: center;
 }
 
