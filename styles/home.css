@@ -1,5 +1,5 @@
 
-div.profile-header a.profile-image img{
+div.home-page a.profile-image img{
     display:block;
     margin-left: auto;
     margin-right: auto;
@@ -9,7 +9,7 @@ div.profile-header a.profile-image img{
     height: 7em;
     
 }
-div.profile-header h1.profile-name{
+div.home-page h1.profile-name{
     color:white;
     text-align: center;
     display: inline;
