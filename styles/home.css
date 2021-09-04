@@ -5,14 +5,15 @@ div.home-page a.profile-image img{
     margin-right: auto;
     width: auto;
     border-radius: 50%;
-    height: 7em;
+    height: 10em;
     
 }
 div.home-page h1.profile-name{
+    padding-top: 0;
     color:white;
     text-align: center;
     font-size: 5em;
-    
+    font-family: 'Anton', sans-serif;
 }
 div.profile-header{
     margin: auto;
@@ -33,6 +34,9 @@ div.profile-header h1.profile-menu ul#menu li {
     font-family: 'Azeret Mono', monospace;
     font-size: larger;
   }
+div.home-page h2 p.intro {
+    font-family: 'Anton', sans-serif;
+}
 body {
     background-color: cadetblue;
     padding:0;
