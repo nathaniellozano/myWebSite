@@ -3,14 +3,12 @@ div.profile-header a.profile-image{
 }
 div.profile-header a.profile-image img{
     border-radius: 50%;
-    display: inline;
     height: 5em;
     
 }
 div.profile-header h1.profile-name{
     color:white;
     text-align: right;
-    display: inline;
     font-size: 3em;
     
 }
@@ -21,7 +19,6 @@ div.profile-header{
     margin: 0;
 }
 div.profile-header h2.profile-menu{
-    display: inline;
     justify-content: center;
 }
 
