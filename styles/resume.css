@@ -1,34 +1,31 @@
 
-span.profile-header a.profile-image{
-    float: left;
-}
-span.profile-header a.profile-image img{
-    border-radius: 50%;
-    height: 5em;
-    
-}
-span.profile-header h2.profile-name{
-    color:white;
-    text-align: right;
-    font-size: 3em;
-    display: inline;
-    
-}
-span.profile-header{
+div.profile-header{
     margin: auto;
     background-color:darkgrey;
     padding: 0;
     margin: 0;
 }
-span.profile-header h1.profile-menu{
+div.profile-header span.profile-img a.profile-image{
+    float: left;
+}
+div.profile-header span.profile-img a.profile-image img{
+    border-radius: 50%;
+    height: 5em;
+    
+}
+div.profile-header span.profile-menu {
     display: flex;
     justify-content: center;
 }
-
-span.profile-header h1.profile-menu ul#menu li {
+div.profile-header span.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
-  }
+}
+div.profile-header span.profile-name{
+    color:white;
+    text-align: right;
+    font-size: 3em;    
+}
 div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
     text-align: center;
