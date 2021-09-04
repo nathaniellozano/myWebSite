@@ -1,6 +1,6 @@
 
 div.profile-header{
-    float:left;
+    display: inline-block;
     margin: auto;
     background-color:darkgrey;
     padding: 0;
@@ -29,7 +29,9 @@ div.profile-header span.profile-name{
     font-size: 3em;    
 }
 */
-
+div.profile-menu div.menus{
+    display: inline;
+}
 div.profile-header ul#menu li {
     display:inline;
     padding-right: 20px;
