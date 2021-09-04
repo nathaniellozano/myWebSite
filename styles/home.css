@@ -9,11 +9,15 @@ div.home-page a.profile-image img{
     
 }
 div.home-page h1.profile-name{
-    padding-top: 0;
     color:white;
     text-align: center;
     font-size: 5em;
     font-family: 'Anton', sans-serif;
+}
+div.home-page h2 p.intro {
+    padding-top: 0;
+    font-family: 'Anton', sans-serif;
+    text-align: center;
 }
 div.profile-header{
     margin: auto;
@@ -34,9 +38,6 @@ div.profile-header h1.profile-menu ul#menu li {
     font-family: 'Azeret Mono', monospace;
     font-size: larger;
   }
-div.home-page h2 p.intro {
-    font-family: 'Anton', sans-serif;
-}
 body {
     background-color: cadetblue;
     padding:0;
