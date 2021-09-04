@@ -7,7 +7,7 @@ span.profile-header a.profile-image img{
     height: 5em;
     
 }
-span.profile-header h1.profile-name{
+span.profile-header h2.profile-name{
     color:white;
     text-align: right;
     font-size: 3em;
@@ -19,12 +19,12 @@ span.profile-header{
     padding: 0;
     margin: 0;
 }
-span.profile-header h2.profile-menu{
+span.profile-header h1.profile-menu{
     display: flex;
     justify-content: center;
 }
 
-span.profile-header h2.profile-menu ul#menu li {
+span.profile-header h1.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
   }
