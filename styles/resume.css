@@ -1,11 +1,4 @@
 
-div.profile-header{
-    display: inline-block;
-    margin: auto;
-    background-color:darkgrey;
-    padding: 0;
-    margin: 0;
-}
 /*
 div.profile-header span.profile-img a.profile-image{
     float: left;
@@ -29,9 +22,38 @@ div.profile-header span.profile-name{
     font-size: 3em;    
 }
 */
-div.profile-header h1 ul#menu li {
+
+div.profile-header a.profile-image img{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    border-radius: 50%;
+    display: inline;
+    height: 7em;
+    
+}
+div.profile-header h1.profile-name{
+    color:white;
+    text-align: center;
+    display: inline;
+    font-size: 5em;
+    
+}
+div.profile-header{
+    margin: auto;
+    background-color:darkgrey;
+    padding: 0;
+    margin: 0;
+}
+div.profile-header h2.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
+  }
+body {
+    background-color: cadetblue;
+    padding:0;
+    margin:0;
 }
 div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
@@ -43,9 +65,4 @@ div.resume a.resume-image img{
     margin-right: auto;
     width: auto;
 
-}
-body {
-    background-color: cadetblue;
-    padding:0;
-    margin:0;
 }
