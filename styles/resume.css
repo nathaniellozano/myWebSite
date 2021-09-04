@@ -28,6 +28,13 @@ div.profile-header h2.profile-menu ul#menu li {
   }
 div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
+    text-align: center;
+}
+div.resume a.resume-image {
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+
 }
 body {
     background-color: cadetblue;
