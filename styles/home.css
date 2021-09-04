@@ -1,4 +1,7 @@
-
+div.home-page {
+    margin:25px;
+    padding:25px;
+}
 div.home-page a.profile-image img{
     display:block;
     margin-left: auto;
@@ -15,7 +18,6 @@ div.home-page h1.profile-name{
     font-family: 'Anton', sans-serif;
 }
 div.home-page h2 p.intro {
-    padding-top: 0;
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
