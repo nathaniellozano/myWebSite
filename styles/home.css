@@ -5,14 +5,12 @@ div.home-page a.profile-image img{
     margin-right: auto;
     width: auto;
     border-radius: 50%;
-    display: inline;
     height: 7em;
     
 }
 div.home-page h1.profile-name{
     color:white;
     text-align: center;
-    display: inline;
     font-size: 5em;
     
 }
