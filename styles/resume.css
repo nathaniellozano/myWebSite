@@ -30,7 +30,8 @@ div.profile-header span.profile-name{
 }
 */
 div.profile-menu div.menus{
-    display: inline;
+    display: flex;
+  justify-content: center;
 }
 div.profile-header ul#menu li {
     display:inline;
