@@ -1,28 +1,10 @@
 
-/*
-div.profile-header span.profile-img a.profile-image{
-    float: left;
+div.profile-header{
+    margin: auto;
+    background-color:darkgrey;
+    padding: 0;
+    margin: 0;
 }
-div.profile-header span.profile-img a.profile-image img{
-    border-radius: 50%;
-    height: 5em;
-    
-}
-div.profile-header span.profile-menu {
-    display: flex;
-    justify-content: center;
-}
-div.profile-header span.profile-menu ul#menu li {
-    display:inline;
-    padding-right: 20px;
-}
-div.profile-header span.profile-name{
-    color:white;
-    text-align: right;
-    font-size: 3em;    
-}
-*/
-
 div.profile-header a.profile-image img{
     display:block;
     margin-left: auto;
@@ -40,21 +22,11 @@ div.profile-header h1.profile-name{
     font-size: 5em;
     
 }
-div.profile-header{
-    margin: auto;
-    background-color:darkgrey;
-    padding: 0;
-    margin: 0;
-}
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
   }
-body {
-    background-color: cadetblue;
-    padding:0;
-    margin:0;
-}
+
 div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
     text-align: center;
@@ -65,4 +37,9 @@ div.resume a.resume-image img{
     margin-right: auto;
     width: auto;
 
+}
+body {
+    background-color: cadetblue;
+    padding:0;
+    margin:0;
 }
