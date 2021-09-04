@@ -1,4 +1,6 @@
-
+div.profile-header a.profile-image{
+    float: left;
+}
 div.profile-header a.profile-image img{
     display:block;
     margin-left: auto;
@@ -11,7 +13,7 @@ div.profile-header a.profile-image img{
 }
 div.profile-header h1.profile-name{
     color:white;
-    text-align: center;
+    text-align: right;
     display: inline;
     font-size: 5em;
     
@@ -23,8 +25,8 @@ div.profile-header{
     margin: 0;
 }
 div.profile-header h2.profile-menu{
-    display: flex;
-  justify-content: center;
+    display: flex,inline;
+    justify-content: center;
 }
 
 div.profile-header h2.profile-menu ul#menu li {
