@@ -33,6 +33,7 @@ div.profile-header ul#menu li {
     padding-right: 20px;
     align-self:center;
     font-family: 'Azeret Mono', monospace;
+    font-size: larger;
   }
 body {
     padding:0;
