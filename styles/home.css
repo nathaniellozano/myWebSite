@@ -41,6 +41,10 @@ div.profile-header h1.profile-menu ul#menu li {
     font-family: 'Azeret Mono', monospace;
     font-size: larger;
   }
+div.profile-header h1.profile-menu ul#menu li a{
+    text-decoration: none;
+    color: white;
+  }
 body {
     background-color: cadetblue;
     padding:0;
