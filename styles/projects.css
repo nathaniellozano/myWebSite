@@ -21,6 +21,7 @@ div.profile-header{
     background-color:darkgrey;
     padding: 0;
     margin: 0;
+    position: fixed;
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
