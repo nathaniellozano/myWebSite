@@ -36,6 +36,10 @@ div.resume h1.desc p.description {
     font-family: 'Anton', sans-serif;
     text-align: center;
 }
+div.resume h1.desc p.description a{
+    text-decoration: none;
+    color:white;
+}
 div.resume a.resume-image img{
     display: block;
     margin-left: auto;
