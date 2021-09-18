@@ -21,6 +21,8 @@ div.profile-header a.profile-image img{
     border-radius: 50%;
     /*display: inline;*/
     height: 7em;
+    padding: none;
+    margin: none;
     
 }
 div.profile-header h1.profile-name{
@@ -35,13 +37,12 @@ div.profile-header h1.profile-name{
 }
 
 div.profile-header h2.profile-menu ul#menu{
-    float: inline-end;
     padding: none;
     margin: none;
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
-    padding-right: 20px;
+    justify-content: space-between;
   }
 
 div.profile-header h2.profile-menu ul#menu li a{
