@@ -1,6 +1,6 @@
 
 div.profile-header{
-    /*display: flex;*/
+    display: flex;
     margin: auto;
     background-color:darkgrey;
     /*justify-content: space-evenly;*/
@@ -29,6 +29,8 @@ div.profile-header h1.profile-name{
     /*text-align:center;*/
     /*display: inline;*/
     font-size: 5em;
+    padding: none;
+    margin: none;
 }
 /*
 div.profile-header h2.profile-menu ul#menu{
