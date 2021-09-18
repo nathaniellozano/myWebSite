@@ -21,6 +21,7 @@ div.profile-header{
     background-color:darkgrey;
     padding: 0;
     margin: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
@@ -31,7 +32,7 @@ div.profile-header h2.profile-menu ul#menu li a{
     color: white;
 }
 body {
-    background-color: cadetblue;
+    background-color:paleturquoise;
     padding:0;
     margin:0;
 }
