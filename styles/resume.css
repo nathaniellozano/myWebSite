@@ -8,9 +8,12 @@ div.profile-header{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 div.profile-header a.profile-image img{
-    display:block;
+    /*display:block;*/
+    /*
     margin-left: auto;
     margin-right: auto;
+    */
+    text-align: left;
     width: auto;
     border-radius: 50%;
     /*display: inline;*/
@@ -19,15 +22,14 @@ div.profile-header a.profile-image img{
 }
 div.profile-header h1.profile-name{
     color:white;
-    text-align: center;
+    text-align:center;
     /*display: inline;*/
     font-size: 5em;
     
 }
 div.profile-header h2.profile-menu ul#menu{
     /*display:inline;*/
-    float: right;
-    
+    text-align: right;
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
