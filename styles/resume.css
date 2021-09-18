@@ -1,5 +1,6 @@
 
 div.profile-header{
+    display: flex;
     margin: auto;
     background-color:darkgrey;
     padding: 0;
@@ -12,19 +13,19 @@ div.profile-header a.profile-image img{
     margin-right: auto;
     width: auto;
     border-radius: 50%;
-    display: inline;
+    /*display: inline;*/
     height: 7em;
     
 }
 div.profile-header h1.profile-name{
     color:white;
     text-align: center;
-    display: inline;
+    /*display: inline;*/
     font-size: 5em;
     
 }
 div.profile-header h2.profile-menu ul#menu{
-    display:inline;
+    /*display:inline;*/
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
