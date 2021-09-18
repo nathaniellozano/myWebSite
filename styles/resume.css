@@ -42,7 +42,7 @@ div.profile-header h2.profile-menu ul#menu{
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
-    justify-content: space-between;
+    padding-left: 20px;
   }
 
 div.profile-header h2.profile-menu ul#menu li a{
