@@ -14,7 +14,7 @@ div.profile-header a.profile-image img{
     margin-left: auto;
     margin-right: auto;
     */
-    text-align: left;
+    float: inline-start;
 
     /*justify-content: left;*/
     width: auto;
@@ -35,7 +35,7 @@ div.profile-header h1.profile-name{
 }
 
 div.profile-header h2.profile-menu ul#menu{
-    float:right;
+    float: inline-end;
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
