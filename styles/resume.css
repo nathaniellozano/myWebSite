@@ -23,6 +23,9 @@ div.profile-header h1.profile-name{
     font-size: 5em;
     
 }
+div.profile-header h2.profile-menu ul#menu{
+    display:inline;
+}
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
