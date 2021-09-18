@@ -36,6 +36,10 @@ div.profile-header h1.profile-name{
     margin: none;
 }
 
+div.profile-header h2.profile-menu{
+    padding: none;
+    margin: none;
+}
 div.profile-header h2.profile-menu ul#menu{
     padding: none;
     margin: none;
