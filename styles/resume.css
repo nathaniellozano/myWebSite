@@ -25,6 +25,7 @@ div.profile-header a.profile-image img{
 }
 div.profile-header h1.profile-name{
     color:white;
+    text-align: center;
     /*justify-content: center;*/
     /*text-align:center;*/
     /*display: inline;*/
