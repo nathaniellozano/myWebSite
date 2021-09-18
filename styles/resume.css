@@ -46,6 +46,7 @@ div.profile-header h2.profile-menu ul#menu{
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
     padding: 0px 0px 0px 20px;
+    margin: none;
   }
 
 div.profile-header h2.profile-menu ul#menu li a{
