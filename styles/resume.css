@@ -14,7 +14,9 @@ div.profile-header a.profile-image img{
     margin-right: auto;
     */
     /*text-align: left;*/
-    justify-content: left;
+
+    /*justify-content: left;*/
+    float: left;
     width: auto;
     border-radius: 50%;
     /*display: inline;*/
@@ -23,15 +25,15 @@ div.profile-header a.profile-image img{
 }
 div.profile-header h1.profile-name{
     color:white;
-    justify-content: center;
+    /*justify-content: center;*/
     /*text-align:center;*/
     /*display: inline;*/
     font-size: 5em;
-    
+    text-align: center;
 }
 
 div.profile-header h2.profile-menu ul#menu{
-    justify-content: right;
+    float: right;
 }
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
