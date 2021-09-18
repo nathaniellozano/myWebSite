@@ -1,7 +1,6 @@
 
 div.profile-header{
     display: flex;
-    margin: auto;
     background-color:darkgrey;
     justify-content: space-between;
     /*justify-content: space-evenly;*/
@@ -39,8 +38,6 @@ div.profile-header h1.profile-name{
 div.profile-header h2.profile-menu{
     padding: none;
     margin: none;
-    float:right;
-
 }
 div.profile-header h2.profile-menu ul#menu{
     padding: none;
