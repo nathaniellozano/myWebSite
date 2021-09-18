@@ -3,6 +3,7 @@ div.profile-header{
     display: flex;
     margin: auto;
     background-color:darkgrey;
+    justify-content: space-evenly;
     padding: 0;
     margin: 0;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
@@ -16,7 +17,6 @@ div.profile-header a.profile-image img{
     /*text-align: left;*/
 
     /*justify-content: left;*/
-    float: left;
     width: auto;
     border-radius: 50%;
     /*display: inline;*/
@@ -29,12 +29,11 @@ div.profile-header h1.profile-name{
     /*text-align:center;*/
     /*display: inline;*/
     font-size: 5em;
-    text-align: center;
 }
-
+/*
 div.profile-header h2.profile-menu ul#menu{
     float: right;
-}
+}*/
 div.profile-header h2.profile-menu ul#menu li {
     display:inline;
     padding-right: 20px;
