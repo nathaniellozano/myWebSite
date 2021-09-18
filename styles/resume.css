@@ -17,6 +17,7 @@ div.profile-header a.profile-image img{
     /*text-align: left;*/
 
     /*justify-content: left;*/
+    float:left;
     width: auto;
     border-radius: 50%;
     /*display: inline;*/
